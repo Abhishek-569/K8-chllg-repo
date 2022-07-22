@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: mytest1-configmap
+data:
+  name: Abhishek
+
