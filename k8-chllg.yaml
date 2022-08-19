@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: test1
-        image: my-app:v1
+        image: abhishek321/my-kub-challenge:v1
         ports:
         - containerPort: 4000
         env:
